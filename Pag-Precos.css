@@ -1,0 +1,146 @@
+@import url(https://fonts.google.com/specimen/Karla);
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html{
+      font-family:Karla;
+      background-color: hsl(221, 29%, 83%);
+  }
+
+  body{
+      background-color: whitesmoke;
+      width:600px;
+      height:450px;
+      border-radius: 8px;
+      border: 2px white;
+      box-shadow: 10px 10px 10px  hsl(220, 19%, 66%);
+      position: relative;
+      margin:auto;
+      top:120px;
+  }
+
+  .title1{
+      color:  hsl(179, 62%, 43%);
+      font-size: 22px;;
+      font-weight: 700;
+      position: absolute;
+      margin: 20px 30px;
+  }
+
+  .intro1{
+      color:hsl(71, 73%, 54%);
+      font-weight: 700;
+      font-size:18px;
+      position: absolute;
+      margin: 60px 30px;
+  }
+
+  .intro2{
+    color: hsl(218, 22%, 67%);
+    font-size:15px;
+    position: absolute;
+    margin: 95px 30px;
+}
+
+.container1{
+    background-color: hsl(179, 60%, 40%);
+    position: absolute;
+    width:50.2%;
+    height:60.3%;
+    top:40%;  
+    border-bottom-left-radius: 10px;
+}
+
+.container2{
+    background-color: hsl(179, 62%, 43%);
+    position: absolute;
+    width:50.2%;
+    height:60.3%;
+    top:40%;
+    left:50%;
+    border-bottom-right-radius: 10px;
+}
+
+.title2{
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    top:40px;
+    left:30px;
+}
+
+
+.price{
+    color:hsl(204, 43%, 93%);
+    font-size:16px;
+    position: absolute;
+    top:77px;
+    font-weight: 400;
+    left:82px;
+}
+
+.simbolo{
+    color:white;
+    font-size:26px;
+    position: absolute;
+    top:70px;
+    left:30px;
+    font-weight: 700;
+}
+
+.text1{
+    color:whitesmoke;
+    position: absolute;
+    top:120px;
+    left:30px;
+}
+.title3{
+    color:white;
+    font-weight: 700;
+    position: absolute;
+    top:40px;
+    left:30px;
+}
+
+.text2{
+    color:hsl(204, 43%, 93%);
+    font-size:16px;
+    position: absolute;
+    top:77px;
+    font-weight: 400;
+    left:30px;
+    width:70%;
+    text-align: justify;
+}
+
+.botao{
+    background-color: hsl(71, 73%, 54%);
+    color:white;
+    font-weight: 700;
+    text-align: center;
+    font-size: 14px;
+    width:200px;
+    height:40px;
+    border: none;
+    border-radius: 10px;
+    position: absolute;
+    left:30px;
+    top:160px;
+    box-shadow: 4px 5px 5px  hsl(179, 65%, 30%);
+}
+
+.botao:hover{
+    background-color: hsl(71, 70%, 46%);
+    transition: 0.5;
+    cursor:pointer;
+}
+
+footer{
+    position: absolute;
+    top:102%;
+    left:20%;
+}
