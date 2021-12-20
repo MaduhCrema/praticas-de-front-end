@@ -6,3 +6,6 @@ Projetos simples de páginas, para treinamento de CSS e HTML
 
 ## Projeto 02 - página de cards
 ![img](https://i.ibb.co/7KHFMd8/cards.png)
+
+## Projeto 03 - FAQ Page
+![img](https://ibb.co/QXyCV9q)
