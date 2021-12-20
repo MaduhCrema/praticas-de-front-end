@@ -8,4 +8,4 @@ Projetos simples de páginas, para treinamento de CSS e HTML
 ![img](https://i.ibb.co/7KHFMd8/cards.png)
 
 ## Projeto 03 - FAQ Page
-![img](https://ibb.co/QXyCV9q)
+![image](https://user-images.githubusercontent.com/65905315/146766589-f9b61c35-f1e9-4c6a-a87e-867bf6729073.png)
